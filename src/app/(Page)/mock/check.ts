@@ -194,16 +194,16 @@ const checkSetting = {
                 ],
                 "children": {
                     "restaurant-info-section-address": {
-                        "hide": true,
+                        "hide": false,
                         "value": "{\"streetAddress\":\"110 happy street, #216\",\"city\":\"Chicago\",\"state\":\"IL\",\"zipcode\":\"02353\"}"
                     },
                     "restaurant-info-section-phoneNumber": {
-                        "hide": true,
+                        "hide": false,
                         "value": "1234567891"
                     },
                     "restaurant-info-section-restaurantName": {
                         "hide": false,
-                        "value": "Quesadilla House & Drink(!@#$%^^&*()+//)"
+                        "value": "Restaurant Name"
                     }
                 }
             },
@@ -229,7 +229,7 @@ const checkSetting = {
                         "value": "Jun 18, 2024 7:30:00 PM"
                     },
                     "check-info-section-serverName": {
-                        "hide": true,
+                        "hide": false,
                         "value": "Server: Server name"
                     },
                     "check-info-section-checkNumber": {
@@ -237,7 +237,7 @@ const checkSetting = {
                         "value": "Check #001"
                     },
                     "check-info-section-guestNumber": {
-                        "hide": true,
+                        "hide": false,
                         "value": "Total Guest: 5"
                     },
                     "check-info-section-tableNumber": {
@@ -249,7 +249,7 @@ const checkSetting = {
                         "value": "Dine In"
                     },
                     "check-info-section-salesChannel": {
-                        "hide": true,
+                        "hide": false,
                         "value": "Table"
                     }
                 }

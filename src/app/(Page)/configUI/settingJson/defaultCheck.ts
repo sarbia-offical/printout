@@ -73,6 +73,13 @@ const defaultCheck: Array<IBaseSettingMapData<ITag>> = [
         ],
         defaultValue: [
           {
+            id: "check-info-section-diningOption",
+            label: "Dining Option",
+            value: "check-info-section-diningOption",
+            checked: true,
+            disabled: false,
+          },
+          {
             id: "check-info-section-salesChannel",
             label: "Sales Channel",
             value: "check-info-section-salesChannel",

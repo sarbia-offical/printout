@@ -36,8 +36,8 @@ export interface IBaseSettingMapData<T extends ITag> extends ISectionAttributes 
 }
 
 export interface IRenderConfigProps {
-    content: IChildrenAttributes<ITag>,
-    sectionId: string
+    content: IChildrenAttributes<ITag>;
+    sectionId: string;
 }
 
 /**
